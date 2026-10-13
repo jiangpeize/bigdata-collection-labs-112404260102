@@ -1,6 +1,2 @@
-# 让 GitHub 忽略这些临时文件（不需要上传的东西）
 .ipynb_checkpoints/
 __pycache__/
-*.pyc
-.DS_Store
-Thumbs.db
